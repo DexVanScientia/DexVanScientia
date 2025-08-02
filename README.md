@@ -24,4 +24,12 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 </picture>
 
 # Quotes
-![DexVanScientia](img/sparkle.gif)
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+
+  <img src="img/sparkle.gif" alt="DexVanScientia" style="margin-right: 20px;" />
+
+  <p style="font-size: 1.1rem; max-width: 500px;">
+    <em>"Ilmu bukan hanya untuk diketahui, tapi untuk dimaknai."</em>
+  </p>
+
+</div>
