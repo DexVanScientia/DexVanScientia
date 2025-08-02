@@ -18,7 +18,7 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DexVanScientia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🎮 Play Games
+## 🎮 Play Games:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexVanScientia/DexVanScientia/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexVanScientia/DexVanScientia/output/pacman-contribution-graph.svg">
