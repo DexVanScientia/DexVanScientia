@@ -20,6 +20,4 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 
 ---
 
-![DexVanScientia](img/sparkle.gif)
-
-**Thanks for visiting my GitHub profile!** 😊
+<img src="img/sparkle.gif" alt="DexVanScientia" style="border-radius: 10px; width: 1000px; height: 300px; object-fit: cover;">
