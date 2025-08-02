@@ -20,4 +20,4 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 
 ---
 
-![DexVanScientia]<img src="img/sparkle.gif">
+![DexVanScientia](img/sparkle.gif)
