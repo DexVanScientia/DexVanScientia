@@ -20,6 +20,6 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 ###
 ---
 
-<img src="https://pin.it/f9NhmULVs" alt="DexVanScientia" style="border-radius: 10px; width: 100%; max-width: 400px;">
+<img src="sparkle.gif" alt="DexVanScientia" style="border-radius: 10px; width: 100%; max-width: 400px;">
 
 **Thanks for visiting my GitHub profile!** 😊
