@@ -1,7 +1,7 @@
 # Hello, I'm Dapii!
 I'm a **student** and a **beginner programmer** who is currently learning the basics of coding and building small projects.
 
-![DexVanScienta](img/github-header.png)
+![DexVanScientia](img/github-header.png)
 
 ## 🚀 About Me
 
@@ -17,9 +17,9 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexVanScientia/DexVanScientia/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DexVanScientia/DexVanScientia/output/pacman-contribution-graph.svg">
 </picture>
-###
+
 ---
 
-<img src="sparkle.gif" alt="DexVanScientia" style="border-radius: 10px; width: 100%; max-width: 400px;">
+![DexVanScientia](img/sparkle.gif)
 
 **Thanks for visiting my GitHub profile!** 😊
