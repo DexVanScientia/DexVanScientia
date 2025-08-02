@@ -3,7 +3,7 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
 
 ![DexVanScientia](img/github-header.png)
 
-## 🚀 About Me
+## 🚀 About Me:
 
 - 🎓 Still a student
 - 💻 Currently learning: HTML, CSS, JavaScript, and Python
@@ -23,13 +23,23 @@ I'm a **student** and a **beginner programmer** who is currently learning the ba
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DexVanScientia/DexVanScientia/output/pacman-contribution-graph.svg">
 </picture>
 
-# Quotes
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-
-  <img src="img/sparkle.gif" alt="DexVanScientia" style="margin-right: 20px;" />
-
-  <p style="font-size: 1.1rem; max-width: 500px;">
-    <em>"Ilmu bukan hanya untuk diketahui, tapi untuk dimaknai."</em>
-  </p>
-
-</div>
+## 🗨️ Quotes
+<span style="display: inline-block; vertical-align: middle;">
+  <img src="img/sparkle.gif" alt="DexVanScientia" width="300" style="border-radius: 10px;"/>
+</span>
+<span style="
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+  font-style: Poppins;
+  color: #2c3e50;
+  max-width: 300px;
+  font-family: 'Georgia', serif;
+  font-size: 1.4em;
+  font-weight: 700;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+  position: relative;
+  top: -10px;
+">
+  "DexVanScientia always shines like a star in the midnight sky."
+</span>
